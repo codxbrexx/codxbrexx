@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20World!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Geeks!+👋;+I'm+Ali!;Full+Stack+Developer+💻;Welcome+to+my+Profile!+🚀;Let's+Code+Together!+⚡" />
@@ -11,7 +9,7 @@
 </p>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="360">
 </div>
 
 <div align="center">
@@ -155,6 +153,3 @@
     <p>⭐️ From <a href="https://github.com/codxbrexx">codxbrexx</a></p>
 </div>
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-</div>
