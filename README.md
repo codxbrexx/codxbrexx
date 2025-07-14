@@ -22,19 +22,18 @@
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
 </h2>
 
-<br/>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=540&height=45&lines=🔭+Currently+working+on+Full+Stack+Projects;🌱+Learning+Web+Development+%26+Cloud;💬+Ask+me+about+JavaScript%2C+React%2C+and+more!;🎉+Fun+Fact%3A+JavaScript+was+originally+called+Mocha!;⚡+I+love+to+explore+new+technologies;🚀+Always+ready+for+new+challenges!" />
 </div>
 
-<br/>
+
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-<br/>
+
 
 <h2 align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30px">
@@ -56,7 +55,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codxbrexx&theme=radical&utcOffset=8" alt="Productive Time" />
 </div>
 
-<br/>
+
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -83,12 +82,6 @@
     </a>
 </div>
 
-<br/>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 <h2 align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40px" />
     &nbsp;Tech Stack&nbsp;
@@ -101,7 +94,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,nextjs,github,git&theme=dark" />
 </div>
 
-<br/>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
