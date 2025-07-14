@@ -113,42 +113,6 @@
 
 <br/>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<h2 align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30px" />
-    &nbsp;GitHub Activity&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30px" />
-</h2>
-
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codxbrexx/codxbrexx/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codxbrexx/codxbrexx/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codxbrexx/codxbrexx/output/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 <h2 align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30px">
     &nbsp;Recent GitHub Activity&nbsp;
