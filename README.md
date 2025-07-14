@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-    🔭 Currently working on **Full Stack Projects**  
+    🔭 Currently working on **Full Stack Projects**  <br/>
     🌱 Learning **Web Development** and **Cloud Technologies**  
     💬 Ask me about **JavaScript, React, and more!**  
     🎉 Fun Fact: **The original name for JavaScript was Mocha!**  
