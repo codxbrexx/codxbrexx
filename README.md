@@ -2,13 +2,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20World!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Geeks!+👋;+I'm+Ali!;Full+Stack+Developer+💻;Welcome+to+my+Profile!+🚀;Let's+Code+Together!+⚡" />
+</h1>
+
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=codxbrexx&label=Profile%20views&color=0e75b6&style=flat" alt="codxbrexx" /> 
 </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Geeks!+👋;+I'm+Ali!;Full+Stack+Developer+💻;Welcome+to+my+Profile!+🚀;Let's+Code+Together!+⚡" />
-</h1>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -35,7 +36,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=440&height=45&lines=🔭+Currently+working+on+Full+Stack+Projects;🌱+Learning+Web+Development+%26+Cloud;💬+Ask+me+about+JavaScript%2C+React%2C+and+more!;🎉+Fun+Fact%3A+JavaScript+was+originally+called+Mocha!;⚡+I+love+to+explore+new+technologies;🚀+Always+ready+for+new+challenges!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=540&height=45&lines=🔭+Currently+working+on+Full+Stack+Projects;🌱+Learning+Web+Development+%26+Cloud;💬+Ask+me+about+JavaScript%2C+React%2C+and+more!;🎉+Fun+Fact%3A+JavaScript+was+originally+called+Mocha!;⚡+I+love+to+explore+new+technologies;🚀+Always+ready+for+new+challenges!" />
 </div>
 
 <br/>
@@ -63,16 +64,7 @@
     <a href="https://github.com/codxbrexx" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://instagram.com/codxbrexx" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
 </div>
-
-<p align="left"> 
-    <a href="https://twitter.com/codxbrexx" target="blank">
-        <img src="https://img.shields.io/twitter/follow/codxbrexx?logo=twitter&style=for-the-badge" alt="codxbrexx" />
-    </a> 
-</p>
 
 <br/>
 
@@ -87,9 +79,9 @@
 </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,graphql,cloudflare,mysql,tailwind,javascript,react,prisma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,tailwind,javascript,react&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,nextjs,firebase,py,github,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,nextjs,github,git&theme=dark" />
 </div>
 
 <br/>
@@ -145,33 +137,10 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<h2 align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30px">
-    &nbsp;GitHub Stats&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30px">
-</h2>
-
-<div align="center">
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mozammilali&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=mozammilali&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br/>
-    <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mozammilali&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
 <br/>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<h2 align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30px">
-    &nbsp;Activity Graph&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30px">
-</h2>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codxbrexx&theme=radical&bg_color=0f0f23&color=f8f8f2&line=ff6ac1&point=ff6ac1&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
@@ -237,21 +206,6 @@
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<h2 align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30px">
-    &nbsp;Support Me&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30px">
-</h2>
-
-<div align="center">
-    <a href="https://www.buymeacoffee.com/codxbrexx" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-    <a href="https://ko-fi.com/codxbrexx" target="_blank">
-        <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-    </a>
 </div>
 
 <br/>
