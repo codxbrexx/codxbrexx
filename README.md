@@ -60,8 +60,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35px" />
 </h2>
 
-<div align="center">
-
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -87,8 +85,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 <!-- Divider -->
 <div align="center">
@@ -140,15 +136,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30px" />
 </h2>
 
-<div align="center">
-
-🟣 **Codeforces Specialist** | Max Rating: 1430  
-🟤 **CodeChef 3★** | Max Rating: 1640  
+🟣 **Codeforces Specialist** | Max Rating: 1262  
+🟤 **CodeChef 3★** | Max Rating: 1626  
 🟡 **3.8k /26.7K** — CF Round 1063 (Div. 3)  
 🔥 **Solved 500+ algorithmic problems**  
 🔧 **5+ PRs & Open-source contributions** (Hacktoberfest'25, Apache Wagtail)
-
-</div>
 
 <!-- Divider -->
 <div align="center">
@@ -212,6 +204,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="380">
   <h3>Thank you for visiting my profile!</h3>
   <p>⭐️ From <a href="https://github.com/codxbrexx"><strong>codxbrexx</strong></a></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
+
 
