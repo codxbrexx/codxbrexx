@@ -61,9 +61,69 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,javascript,typescript,react,nextjs,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,javascript,typescript,react,nextjs,nodejs,express&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,tailwind,git,github,linux,docker&theme=dark" />
+</div>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" />
+  &nbsp;Featured Projects&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" />
+</h2>
+
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">FocusMaster</h3>
+<div align="center">
+<a href="https://github.com/codxbrexx/FocusMaster" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codxbrexx&repo=FocusMaster&theme=radical" alt="FocusMaster" />
+</a>
+<p><strong>TypeScript, React, Next.js</strong> - A productivity web app that helps users stay focused, track study/work hours, manage tasks, view productivity insights, and build better habits with goals and streaks.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">College Alumni</h3>
+<div align="center">
+<a href="https://github.com/codxbrexx/college-alumni" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codxbrexx&repo=college-alumni&theme=radical" alt="college-alumni" />
+</a>
+<p><strong>JavaScript, React, Node.js</strong> - A comprehensive alumni management system connecting students and alumni with networking features, event management, and mentorship programs.</p>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30px" />
+  &nbsp;Achievements&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30px" />
+</h2>
+
+<div align="center">
+
+🟣 **Codeforces Specialist** | Max Rating: 1430  
+🟤 **CodeChef 3★** | Max Rating: 1640  
+🟡 **3.8k /26.7K** — CF Round 1063 (Div. 3)  
+🔥 **Solved 500+ algorithmic problems**  
+🔧 **5+ PRs & Open-source contributions** (Hacktoberfest'25, Apache Wagtail)
+
 </div>
 
 <!-- Divider -->
@@ -91,10 +151,43 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" />
+  &nbsp;Connect with Me&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" />
+</h2>
+
+<div align="center">
+  <a href="https://github.com/codxbrexx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mozammil-ali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/codxbrexx" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/codxbrexx" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codxbrexx&theme=react-dark&hide_border=true&area=true" width="100%">
+</div>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="380">
-  <h3>Thank you for visiting my profile</h3>
+  <h3>Thank you for visiting my profile!</h3>
   <p>⭐️ From <a href="https://github.com/codxbrexx"><strong>codxbrexx</strong></a></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
 
