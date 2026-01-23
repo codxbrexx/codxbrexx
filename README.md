@@ -14,7 +14,7 @@
 ### 🔭 About Me
 I am a software developer dedicated to building scalable web systems and exploring low-level systems programming. My focus lies in clean architecture, performance optimization, and contributing to the global open-source ecosystem.
 
-- 🌱 **Current Focus:** Backend scalability with **Rust**, **Kafka**, and **Cloud Infrastructure**.
+- 🌱 **Current Focus:** Backend scalability with **Rust**, and **Cloud Infrastructure**.
 - 🛠️ **Open Source:** Active contributor to projects like **Apache Wagtail** and **OpenDAL**.
 - 🏆 **Problem Solving:** Competitive Programmer (Specialist) with a deep interest in advanced algorithms.
 - ⚡ **Technical Interests:** Distributed systems, cloud-native development, and systems engineering.
