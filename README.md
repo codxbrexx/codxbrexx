@@ -1,13 +1,11 @@
 
 <div align="center">
   
-# Hi, I'm Codxbrexx
-
 ### Full Stack Developer | Open Source Contributor | Competitive Programmer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=codxbrexx&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/codxbrexx)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 
 </div>
 
@@ -18,7 +16,7 @@
 I'm a passionate software developer focused on building **scalable web systems** and exploring **low-level systems programming**. I specialize in clean architecture, performance optimization, and contributing to the global open-source community.
 
 ```typescript
-const mozammil = {
+const codxbrexx = {
     location: "India 🇮🇳",
     currentFocus: ["Backend Scalability", "Rust", "Cloud Infrastructure"],
     openSource: ["Apache Wagtail", "OpenDAL", "Hacktoberfest"],
@@ -81,7 +79,7 @@ const mozammil = {
 ---
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Statistics**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub**
 
 <div align="center">
   
@@ -89,8 +87,6 @@ const mozammil = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codxbrexx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codxbrexx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codxbrexx&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
 
 </div>
 
