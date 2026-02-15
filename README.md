@@ -3,9 +3,29 @@
   
 ### Full Stack Developer | Open Source Contributor | Competitive Programmer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=codxbrexx&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/codxbrexx)
+<p align="center">
+  <a href="https://github.com/codxbrexx">
+    <img src="https://komarev.com/ghpvc/?username=codxbrexx&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+  <a href="https://mozammilali-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+
+<!-- <p align="center">
+  <a href="https://mozammilali-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%20Website-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=gold" />
+  </a>
+</p> -->
+
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
 </div>
 
@@ -20,7 +40,7 @@ const codxbrexx = {
     location: "India",
     currentFocus: ["Backend Scalability", "Rust", "Cloud Infrastructure"],
     openSource: ["Wagtail", "OpenDAL", "Hacktoberfest"],
-    competitiveProgramming: "Codeforces Specialist",
+    competitiveProgramming: "Codeforces pupil | 3Star Codechef",
     interests: ["Distributed Systems", "Cloud-Native Development", "Systems Engineering"],
     askMeAbout: ["Web Dev", "Algorithms", "System Design", "Open Source"]
 };
