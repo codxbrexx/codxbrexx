@@ -39,7 +39,7 @@ I'm a passionate software developer focused on building **scalable web systems**
 const codxbrexx = {
     location: "India",
     currentFocus: ["Backend Scalability", "Rust", "Cloud Infrastructure"],
-    openSource: ["Wagtail", "OpenDAL", "Hacktoberfest"],
+    openSource: ["MetaCall","AsyncAPI","Wagtail", "OpenDAL", "Hacktoberfest"],
     competitiveProgramming: "Codeforces pupil | 3Star Codechef",
     interests: ["Distributed Systems", "Cloud-Native Development", "Systems Engineering"],
     askMeAbout: ["Web Dev", "Algorithms", "System Design", "Open Source"]
