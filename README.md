@@ -115,7 +115,7 @@ const codxbrexx = {
 
 ## 🚀 Projects
 
-Here are **all 9 projects currently featured in my portfolio**, covering productivity, AI, developer tools, education, and full-stack applications.
+Here are selected projects from my portfolio, open-source contributions, and independent development. Private projects are explicitly marked; their source code is not publicly accessible.
 
 | Project | Overview | Tech Stack | Demo / Source |
 |---|---|---|---|
@@ -128,6 +128,14 @@ Here are **all 9 projects currently featured in my portfolio**, covering product
 | **[AITextExplainer](https://github.com/codxbrexx/AITextExplainer)** | Chrome extension that simplifies difficult text using the Gemini API and a Python backend. | JavaScript, Python, Flask, Gemini API, Chrome Extension API | [GitHub](https://github.com/codxbrexx/AITextExplainer) · Demo coming soon |
 | **[GetPrompt](https://github.com/codxbrexx/GetPrompt)** | Collaborative prompt-engineering platform for discovering, refining, and sharing AI prompts. | Next.js, TypeScript, React, TurboRepo, Docker | [Live Demo](https://get-prompt-jet.vercel.app/) · [GitHub](https://github.com/codxbrexx/GetPrompt) |
 | **[RentIt](https://github.com/codxbrexx/Rentit)** | Rental marketplace with listings, booking workflows, authentication, and user dashboards. | Next.js, TypeScript, Tailwind CSS, Prisma, MongoDB | [GitHub](https://github.com/codxbrexx/Rentit) |
+| **[MetaCall Launchpad](https://github.com/codxbrexx/launchpad)** | Web dashboard for managing polyglot deployments, logs, environments, and function execution on MetaCall FaaS. | React, TypeScript, Vite, Tailwind CSS, Vitest, Playwright | [GitHub](https://github.com/codxbrexx/launchpad) · [MetaCall](https://metacall.io/) |
+| **[AEGIS](https://github.com/codxbrexx/AEGIS)** | Privacy-preserving browser agent for Smart India Hackathon 2026 that detects and masks sensitive data on-device before content is sent to a remote AI model. | Browser extension, JavaScript/TypeScript, privacy engineering | [GitHub](https://github.com/codxbrexx/AEGIS) |
+| **Arivon** 🔒 **Private repository** | Enterprise knowledge assistant exploring Hybrid RAG, Graph RAG, semantic search, and agentic workflows. Source code is private. | Next.js, FastAPI, PostgreSQL, pgvector, Neo4j, Redis | [Private repository](https://github.com/codxbrexx/Arivon) · Access restricted |
+| **Deep Study** 🔒 **Private repository** | Study and learning platform. Source code is private. | Full-stack web application | [Private repository](https://github.com/codxbrexx/Deep_Study) · Access restricted |
+| **LeetLock** 🔒 **Private repository** | Independent project in the coding and problem-solving space. Source code is private. | Details withheld while private | [Private repository](https://github.com/codxbrexx/LeetLock) · Access restricted |
+| **ReadUp** 🔒 **Private repository** | Reading-focused independent project. Source code is private. | Details withheld while private | [Private repository](https://github.com/codxbrexx/ReadUp) · Access restricted |
+| **ContScope** 🔒 **Private repository** | Independent project under development. Source code is private. | Details withheld while private | [Private repository](https://github.com/codxbrexx/ContScope) · Access restricted |
+| **Lets_Edit** 🔒 **Private repository** | Private project for editing-related workflows. Source code is private. | Details withheld while private | [Private repository](https://github.com/codxbrexx/Lets_Edit) · Access restricted |
 
 **Explore the complete project gallery:** [mozammilali-portfolio.vercel.app/projects](https://mozammilali-portfolio.vercel.app/projects)
 
