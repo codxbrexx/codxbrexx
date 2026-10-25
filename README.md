@@ -113,6 +113,26 @@ const codxbrexx = {
   <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
 </p>
 
+## 🚀 Projects
+
+Here are **all 9 projects currently featured in my portfolio**, covering productivity, AI, developer tools, education, and full-stack applications.
+
+| Project | Overview | Tech Stack | Demo / Source |
+|---|---|---|---|
+| **[FocusMaster](https://github.com/codxbrexx/FocusMaster)** | Productivity workspace with Pomodoro focus sessions, Kanban tasks, analytics, streaks, and Spotify integration. | React, TypeScript, Node.js, Express, MongoDB | [Live Demo](https://focuswithme.vercel.app/) · [GitHub](https://github.com/codxbrexx/FocusMaster) |
+| **Arivon** | Enterprise knowledge assistant exploring Hybrid RAG, Graph RAG, semantic search, and agentic workflows. | Next.js, FastAPI, PostgreSQL, pgvector, Neo4j, Redis | **In progress** |
+| **[NetGrad Alumni Platform](https://github.com/codxbrexx/college-alumni)** | Alumni networking platform with career resources, semantic search, editorial content, and analytics. | React 19, Node.js, Express 5, MongoDB | [Live Demo](https://college-info-project.vercel.app/) · [GitHub](https://github.com/codxbrexx/college-alumni) |
+| **[RepoLense](https://github.com/codxbrexx/RepoLens)** | GitHub repository analytics for contributor activity, commits, language breakdowns, and project health. | Next.js, TypeScript, GitHub API, Tailwind CSS, Chart.js | [Live Demo](https://lensrepo.netlify.app/) · [GitHub](https://github.com/codxbrexx/RepoLens) |
+| **[Food-Express](https://github.com/codxbrexx/Food-Express)** | Responsive food-delivery experience for browsing menus and managing orders. | React, JavaScript, Tailwind CSS | [Live Demo](https://food-express-lake.vercel.app/) · [GitHub](https://github.com/codxbrexx/Food-Express) |
+| **[Cosmic Escape](https://github.com/codxbrexx/Cosmic_Escape)** | Arcade shooter with Story Mode, Boss Rush, Canvas rendering, and animated effects. | JavaScript, Vite, HTML5 Canvas, GSAP, Tailwind CSS | [Live Demo](https://cosmic-escape-oi.vercel.app/) · [GitHub](https://github.com/codxbrexx/Cosmic_Escape) |
+| **[AITextExplainer](https://github.com/codxbrexx/AITextExplainer)** | Chrome extension that simplifies difficult text using the Gemini API and a Python backend. | JavaScript, Python, Flask, Gemini API, Chrome Extension API | [GitHub](https://github.com/codxbrexx/AITextExplainer) · Demo coming soon |
+| **[GetPrompt](https://github.com/codxbrexx/GetPrompt)** | Collaborative prompt-engineering platform for discovering, refining, and sharing AI prompts. | Next.js, TypeScript, React, TurboRepo, Docker | [Live Demo](https://get-prompt-jet.vercel.app/) · [GitHub](https://github.com/codxbrexx/GetPrompt) |
+| **[RentIt](https://github.com/codxbrexx/Rentit)** | Rental marketplace with listings, booking workflows, authentication, and user dashboards. | Next.js, TypeScript, Tailwind CSS, Prisma, MongoDB | [GitHub](https://github.com/codxbrexx/Rentit) |
+
+**Explore the complete project gallery:** [mozammilali-portfolio.vercel.app/projects](https://mozammilali-portfolio.vercel.app/projects)
+
+---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub**
 
 <div align="center">
