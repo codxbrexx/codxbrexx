@@ -60,29 +60,31 @@ const codxbrexx = {
   <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
 </p>
 
-## 🚀 Projects
-
-Here are selected projects from my portfolio, open-source contributions, and independent development. Private projects are explicitly marked; their source code is not publicly accessible.
-
-| Project | Overview | Tech Stack | Demo / Source |
+##  Projects
+ 
+Selected work from open source, hackathons, and independent development.
+### Featured
+ 
+| Project | Overview | Tech Stack | Links |
 |---|---|---|---|
-| **[FocusMaster](https://github.com/codxbrexx/FocusMaster)** | Productivity workspace with Pomodoro focus sessions, Kanban tasks, analytics, streaks, and Spotify integration. | React, TypeScript, Node.js, Express, MongoDB | [Live Demo](https://focuswithme.vercel.app/) · [GitHub](https://github.com/codxbrexx/FocusMaster) |
-| **Arivon** | Enterprise knowledge assistant exploring Hybrid RAG, Graph RAG, semantic search, and agentic workflows. | Next.js, FastAPI, PostgreSQL, pgvector, Neo4j, Redis | **In progress** |
-| **[NetGrad Alumni Platform](https://github.com/codxbrexx/college-alumni)** | Alumni networking platform with career resources, semantic search, editorial content, and analytics. | React 19, Node.js, Express 5, MongoDB | [Live Demo](https://college-info-project.vercel.app/) · [GitHub](https://github.com/codxbrexx/college-alumni) |
-| **[RepoLense](https://github.com/codxbrexx/RepoLens)** | GitHub repository analytics for contributor activity, commits, language breakdowns, and project health. | Next.js, TypeScript, GitHub API, Tailwind CSS, Chart.js | [Live Demo](https://lensrepo.netlify.app/) · [GitHub](https://github.com/codxbrexx/RepoLens) |
-| **[Food-Express](https://github.com/codxbrexx/Food-Express)** | Responsive food-delivery experience for browsing menus and managing orders. | React, JavaScript, Tailwind CSS | [Live Demo](https://food-express-lake.vercel.app/) · [GitHub](https://github.com/codxbrexx/Food-Express) |
-| **[Cosmic Escape](https://github.com/codxbrexx/Cosmic_Escape)** | Arcade shooter with Story Mode, Boss Rush, Canvas rendering, and animated effects. | JavaScript, Vite, HTML5 Canvas, GSAP, Tailwind CSS | [Live Demo](https://cosmic-escape-oi.vercel.app/) · [GitHub](https://github.com/codxbrexx/Cosmic_Escape) |
-| **[AITextExplainer](https://github.com/codxbrexx/AITextExplainer)** | Chrome extension that simplifies difficult text using the Gemini API and a Python backend. | JavaScript, Python, Flask, Gemini API, Chrome Extension API | [GitHub](https://github.com/codxbrexx/AITextExplainer) · Demo coming soon |
-| **[GetPrompt](https://github.com/codxbrexx/GetPrompt)** | Collaborative prompt-engineering platform for discovering, refining, and sharing AI prompts. | Next.js, TypeScript, React, TurboRepo, Docker | [Live Demo](https://get-prompt-jet.vercel.app/) · [GitHub](https://github.com/codxbrexx/GetPrompt) |
-| **[RentIt](https://github.com/codxbrexx/Rentit)** | Rental marketplace with listings, booking workflows, authentication, and user dashboards. | Next.js, TypeScript, Tailwind CSS, Prisma, MongoDB | [GitHub](https://github.com/codxbrexx/Rentit) |
-| **[MetaCall Launchpad](https://github.com/codxbrexx/launchpad)** | Web dashboard for managing polyglot deployments, logs, environments, and function execution on MetaCall FaaS. | React, TypeScript, Vite, Tailwind CSS, Vitest, Playwright | [GitHub](https://github.com/codxbrexx/launchpad) · [MetaCall](https://metacall.io/) |
-| **[AEGIS](https://github.com/codxbrexx/AEGIS)** | Privacy-preserving browser agent for Smart India Hackathon 2026 that detects and masks sensitive data on-device before content is sent to a remote AI model. | Browser extension, JavaScript/TypeScript, privacy engineering | [GitHub](https://github.com/codxbrexx/AEGIS) |
-| **Arivon** 🔒 **Private repository** | Enterprise knowledge assistant exploring Hybrid RAG, Graph RAG, semantic search, and agentic workflows. Source code is private. | Next.js, FastAPI, PostgreSQL, pgvector, Neo4j, Redis | [Private repository](https://github.com/codxbrexx/Arivon) · Access restricted |
-| **Deep Study** 🔒 **Private repository** | Study and learning platform. Source code is private. | Full-stack web application | [Private repository](https://github.com/codxbrexx/Deep_Study) · Access restricted |
-| **LeetLock** 🔒 **Private repository** | Independent project in the coding and problem-solving space. Source code is private. | Details withheld while private | [Private repository](https://github.com/codxbrexx/LeetLock) · Access restricted |
-| **ReadUp** 🔒 **Private repository** | Reading-focused independent project. Source code is private. | Details withheld while private | [Private repository](https://github.com/codxbrexx/ReadUp) · Access restricted |
-| **ContScope** 🔒 **Private repository** | Independent project under development. Source code is private. | Details withheld while private | [Private repository](https://github.com/codxbrexx/ContScope) · Access restricted |
-| **Lets_Edit** 🔒 **Private repository** | Private project for editing-related workflows. Source code is private. | Details withheld while private | [Private repository](https://github.com/codxbrexx/Lets_Edit) · Access restricted |
+| **MetaCall Launchpad** | Web dashboard for managing polyglot deployments, logs, environments, and function execution on MetaCall FaaS. | React, TypeScript, Vite, Tailwind CSS, Vitest, Playwright | [GitHub](https://github.com/codxbrexx/launchpad) · [MetaCall](https://metacall.io/) |
+| **AEGIS** | Privacy-preserving browser agent for Smart India Hackathon 2026. Detects and masks sensitive data on-device before content is sent to a remote AI model. | Browser extension, JavaScript/TypeScript | [GitHub](https://github.com/codxbrexx/AEGIS) |
+| **Arivon** | Enterprise knowledge assistant exploring Hybrid RAG, Graph RAG, semantic search, and agentic workflows. *In progress.* | Next.js, FastAPI, PostgreSQL, pgvector, Neo4j, Redis | 🔒 Private |
+| **FocusMaster** | Productivity workspace with Pomodoro focus sessions, Kanban tasks, analytics, streaks, and Spotify integration. | React, TypeScript, Node.js, Express, MongoDB | [Live](https://focuswithme.vercel.app/) · [GitHub](https://github.com/codxbrexx/FocusMaster) |
+| **NetGrad Alumni Platform** | Alumni networking platform with career resources, semantic search, editorial content, and analytics. | React 19, Node.js, Express 5, MongoDB | [Live](https://college-info-project.vercel.app/) · [GitHub](https://github.com/codxbrexx/college-alumni) |
+| **GetPrompt** | Collaborative prompt-engineering platform for discovering, refining, and sharing AI prompts. | Next.js, TypeScript, TurboRepo, Docker | [Live](https://get-prompt-jet.vercel.app/) · [GitHub](https://github.com/codxbrexx/GetPrompt) |
+| **RepoLense** | GitHub repository analytics for contributor activity, commits, language breakdowns, and project health. | Next.js, TypeScript, GitHub API, Tailwind CSS, Chart.js | [Live](https://lensrepo.netlify.app/) · [GitHub](https://github.com/codxbrexx/RepoLens) |
+| **AITextExplainer** | Chrome extension that simplifies difficult text using the Gemini API and a Python backend. | JavaScript, Python, Flask, Gemini API, Chrome Extension API | [GitHub](https://github.com/codxbrexx/AITextExplainer) |
+ 
+### Other Projects
+ 
+| Project | Overview | Tech Stack | Links |
+|---|---|---|---|
+| **RentIt** | Rental marketplace with listings, booking workflows, authentication, and user dashboards. | Next.js, TypeScript, Tailwind CSS, Prisma, MongoDB | [GitHub](https://github.com/codxbrexx/Rentit) |
+| **Food-Express** | Responsive food-delivery app for browsing menus and managing orders. | React, JavaScript, Tailwind CSS | [Live](https://food-express-lake.vercel.app/) · [GitHub](https://github.com/codxbrexx/Food-Express) |
+| **Cosmic Escape** | Arcade shooter with Story Mode, Boss Rush, Canvas rendering, and animated effects. | JavaScript, Vite, HTML5 Canvas, GSAP | [Live](https://cosmic-escape-oi.vercel.app/) · [GitHub](https://github.com/codxbrexx/Cosmic_Escape) |
+| **Deep Study** | Study and learning platform. | Full-stack web application | 🔒 Private |
+ 
 
 **Explore the complete project gallery:** [mozammilali-portfolio.vercel.app/projects](https://mozammilali-portfolio.vercel.app/projects)
 
